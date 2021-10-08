@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Liazul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Liazul <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Jr.+Web+Developer;MongoDB%20|%20Express%20|%20React%20|Node;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Jr.+Web+Developer;MongoDB%20|%20Express%20|%20React%20|%20Node;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I hava a  Diploma in Computer Technology. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="left">I hava a  Diploma in Computer Technology. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 
 ### 🛠️ My Skills
 <hr/>
@@ -61,7 +61,7 @@
 
 <br/>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+                width="28" />To connect with me</h2></summary>
 <p align = "center">
   
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://liazul.me/)
@@ -69,7 +69,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/liazul/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/liazul/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/liazul/)
-<br/>
+ 
+
+<hr/>
+
 [![Visits Badge](https://badges.pufler.dev/visits/mohammadliazul/mohammadliazul?style=for-the-badge)](https://github.com/mohammadliazul)
-  
 </p>
